@@ -1,0 +1,3 @@
+/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles/tjurm_tutorial.dir
+/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles/edit_cache.dir
+/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles/rebuild_cache.dir
