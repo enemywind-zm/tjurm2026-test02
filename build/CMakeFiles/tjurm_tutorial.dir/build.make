@@ -73,281 +73,281 @@ CMakeFiles/tjurm_tutorial.dir/main.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.mak
 CMakeFiles/tjurm_tutorial.dir/main.cc.o: ../main.cc
 CMakeFiles/tjurm_tutorial.dir/main.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tjurm_tutorial.dir/main.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/main.cc.o -MF CMakeFiles/tjurm_tutorial.dir/main.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/main.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/main.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/main.cc.o -MF CMakeFiles/tjurm_tutorial.dir/main.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/main.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/main.cc
 
 CMakeFiles/tjurm_tutorial.dir/main.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/main.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/main.cc > CMakeFiles/tjurm_tutorial.dir/main.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/main.cc > CMakeFiles/tjurm_tutorial.dir/main.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/main.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/main.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/main.cc -o CMakeFiles/tjurm_tutorial.dir/main.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/main.cc -o CMakeFiles/tjurm_tutorial.dir/main.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.o: ../src/area_ratio/impl.cc
 CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/area_ratio/impl.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/area_ratio/impl.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/area_ratio/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/area_ratio/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/area_ratio/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/area_ratio/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/area_ratio/impl.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.o: ../src/area_ratio/test.cc
 CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/area_ratio/test.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/area_ratio/test.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/area_ratio/test.cc > CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/area_ratio/test.cc > CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/area_ratio/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/area_ratio/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/area_ratio/test.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.o: ../src/compute_iou/impl.cc
 CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/compute_iou/impl.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/compute_iou/impl.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/compute_iou/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/compute_iou/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/compute_iou/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/compute_iou/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/compute_iou/impl.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.o: ../src/compute_iou/test.cc
 CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/compute_iou/test.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/compute_iou/test.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/compute_iou/test.cc > CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/compute_iou/test.cc > CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/compute_iou/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/compute_iou/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/compute_iou/test.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.o: ../src/erode/impl.cc
 CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/erode/impl.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/erode/impl.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/erode/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/erode/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/erode/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/erode/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/erode/impl.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.o: ../src/erode/test.cc
 CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/erode/test.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/erode/test.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/erode/test.cc > CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/erode/test.cc > CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/erode/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/erode/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/erode/test.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.o: ../src/find_contours/impl.cc
 CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/find_contours/impl.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/find_contours/impl.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/find_contours/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/find_contours/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/find_contours/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/find_contours/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/find_contours/impl.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.o: ../src/find_contours/test.cc
 CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/find_contours/test.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/find_contours/test.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/find_contours/test.cc > CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/find_contours/test.cc > CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/find_contours/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/find_contours/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/find_contours/test.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.o: ../src/rect/impl.cc
 CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/rect/impl.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/rect/impl.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/rect/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/rect/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/rect/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/rect/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/rect/impl.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.o: ../src/rect/test.cc
 CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/rect/test.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/rect/test.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/rect/test.cc > CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/rect/test.cc > CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/rect/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/rect/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/rect/test.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.o: ../src/resize/impl.cc
 CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/resize/impl.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/resize/impl.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/resize/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/resize/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/resize/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/resize/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/resize/impl.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.o: ../src/resize/test.cc
 CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/resize/test.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/resize/test.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/resize/test.cc > CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/resize/test.cc > CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/resize/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/resize/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/resize/test.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.o: ../src/roi_color/impl.cc
 CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/roi_color/impl.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/roi_color/impl.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/roi_color/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/roi_color/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/roi_color/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/roi_color/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/roi_color/impl.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.o: ../src/roi_color/test.cc
 CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/roi_color/test.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/roi_color/test.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/roi_color/test.cc > CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/roi_color/test.cc > CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/roi_color/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/roi_color/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/roi_color/test.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.o: ../src/split/impl.cc
 CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/split/impl.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/split/impl.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/split/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/split/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/split/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/split/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/split/impl.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.o: ../src/split/test.cc
 CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/split/test.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/split/test.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/split/test.cc > CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/split/test.cc > CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/split/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/split/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/split/test.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.o: ../src/threshold/impl.cc
 CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/threshold/impl.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/threshold/impl.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/threshold/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/threshold/impl.cc > CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/threshold/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/threshold/impl.cc -o CMakeFiles/tjurm_tutorial.dir/src/threshold/impl.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.o: ../src/threshold/test.cc
 CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/threshold/test.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/threshold/test.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/threshold/test.cc > CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/threshold/test.cc > CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/threshold/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/threshold/test.cc -o CMakeFiles/tjurm_tutorial.dir/src/threshold/test.cc.s
 
 CMakeFiles/tjurm_tutorial.dir/src/utils.cc.o: CMakeFiles/tjurm_tutorial.dir/flags.make
 CMakeFiles/tjurm_tutorial.dir/src/utils.cc.o: ../src/utils.cc
 CMakeFiles/tjurm_tutorial.dir/src/utils.cc.o: CMakeFiles/tjurm_tutorial.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enemywind_unroot/TEST/tjurm2026-test02/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/tjurm_tutorial.dir/src/utils.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/utils.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/utils.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/utils.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/utils.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tjurm_tutorial.dir/src/utils.cc.o -MF CMakeFiles/tjurm_tutorial.dir/src/utils.cc.o.d -o CMakeFiles/tjurm_tutorial.dir/src/utils.cc.o -c /home/enemywind_unroot/TEST/tjurm2026-test02/src/utils.cc
 
 CMakeFiles/tjurm_tutorial.dir/src/utils.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tjurm_tutorial.dir/src/utils.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/utils.cc > CMakeFiles/tjurm_tutorial.dir/src/utils.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enemywind_unroot/TEST/tjurm2026-test02/src/utils.cc > CMakeFiles/tjurm_tutorial.dir/src/utils.cc.i
 
 CMakeFiles/tjurm_tutorial.dir/src/utils.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tjurm_tutorial.dir/src/utils.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/utils.cc -o CMakeFiles/tjurm_tutorial.dir/src/utils.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enemywind_unroot/TEST/tjurm2026-test02/src/utils.cc -o CMakeFiles/tjurm_tutorial.dir/src/utils.cc.s
 
 # Object files for target tjurm_tutorial
 tjurm_tutorial_OBJECTS = \

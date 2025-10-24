@@ -17,5 +17,13 @@ float compute_iou(const cv::Rect& a, const cv::Rect& b) {
      * 运行测试点，显示通过就行，不通过会告诉你哪一组矩形错了。
     */
     // IMPLEMENT YOUR CODE HERE
-    return 0.f;
+    cv::Rect inter = a & b; // 计算交集矩形
+    float interArea = static_cast<float>(inter.area());
+    if (interArea == 0) {
+        return 0.f;
+    }
+    float unionArea = static_cast<float>(a.area() + b.area() - interArea);
+    float iou = interArea / unionArea;
+
+    return iou;
 }
